@@ -2,7 +2,7 @@ import asyncio
 import logging
 from bot.bot import main
 
-# log_file = '/www/telega_bot/sport_telegram_bot/log/bot.log'
+# log_file = ''
 
 if __name__ == "__main__":
     try:
